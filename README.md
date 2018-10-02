@@ -23,7 +23,7 @@ Once the above is complete you are ready to go.
 
 # Do second swarm behavior
 
-./mark u1234567
+./mark u1234567 b
 
 # Get Help
 
