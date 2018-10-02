@@ -32,5 +32,5 @@ Temporary Items
 # End of https://www.gitignore.io/api/macos
 
 ./tmp
-./submissions/
-./base/
+./submissions
+./base
